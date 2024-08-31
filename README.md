@@ -7,7 +7,7 @@ Selamat datang di proyek Dashboard Analisis Tingkat Pengangguran! Proyek ini ber
 Dashboard ini memungkinkan pengguna untuk mengeksplorasi data tingkat pengangguran dengan cara yang interaktif dan informatif. Fitur utama dari dashboard ini meliputi:
 
 - Visualisasi Tingkat Pengangguran
-**Tren Pengangguran**: Grafik garis yang menunjukkan tren tingkat pengangguran dari bulan ke bulan.
+**Tren Pengangguran**: Grafik garis yang menunjukkan tren tingkat pengangguran dari bulan ke bulan.  \n
 **Pengangguran per Provinsi**: Scatter plot yang membandingkan tingkat pengangguran di bulan Februari dan Agustus untuk setiap provinsi.
 
 ## Instalasi
